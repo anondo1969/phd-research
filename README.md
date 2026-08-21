@@ -19,124 +19,66 @@ Department of Computer and Systems Sciences, Stockholm University, 2024.
 
 ## Media gallery
 
-The cards below are clickable. PDFs open as full slide decks or posters; videos open in the browser. GitHub does not reliably preview external PDFs and videos inside a README, so I use linked visual cards instead.
+Quick links to the slides, posters, videos, and demos that go with the research.
 
 <table>
 <tr>
-<td width="50%" align="center">
-<a href="https://mahbub.blogs.dsv.su.se/files/2025/02/defence_presentation_slides.pdf"><img src="assets/media/phd-defence.svg" alt="PhD public defence slides" width="100%"></a><br>
-<a href="https://mahbub.blogs.dsv.su.se/files/2025/09/PhD_defence_28-03-2024_Mahbub_Ul_Alam.mp4">▶ Watch the PhD defence</a>
+<td width="50%" valign="top">
+<strong>🎓 PhD public defence</strong><br><br>
+<a href="https://mahbub.blogs.dsv.su.se/files/2025/02/defence_presentation_slides.pdf">📑 Defence slides (PDF)</a><br>
+<a href="https://mahbub.blogs.dsv.su.se/files/2025/09/PhD_defence_28-03-2024_Mahbub_Ul_Alam.mp4">▶️ Watch the defence (MP4)</a>
 </td>
-<td width="50%" align="center">
-<a href="https://mahbub.blogs.dsv.su.se/files/2022/05/poster_Mahbub_Ul_Alam.pdf"><img src="assets/media/paper-i-poster.svg" alt="Paper I poster" width="100%"></a><br>
-<a href="https://mahbub.blogs.dsv.su.se/files/2022/05/poster_Mahbub_Ul_Alam.pdf">Open poster PDF</a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/anondo1969/thremaltimodal-covidetector/raw/main/slides_and_results/presentation_slides_v3.pdf"><img src="assets/media/paper-ii-slides.svg" alt="Paper II presentation slides" width="100%"></a><br>
-<a href="https://github.com/anondo1969/thremaltimodal-covidetector/raw/main/slides_and_results/presentation_slides_v3.pdf">Open Paper II slides</a>
-</td>
-<td width="50%" align="center">
-<a href="https://mahbub.blogs.dsv.su.se/files/2023/01/FedSepsis_Mahbub_Ul_Alam.pdf"><img src="assets/media/fedsepsis-slides.svg" alt="FedSepsis presentation slides" width="100%"></a><br>
-<a href="https://mahbub.blogs.dsv.su.se/files/2023/01/FedSepsis_Mahbub_Ul_Alam.pdf">Open FedSepsis slides</a>
+<td width="50%" valign="top">
+<strong>🖼️ Paper I — Federated semi-supervised COVID-19 detection</strong><br><br>
+<a href="https://mahbub.blogs.dsv.su.se/files/2022/05/poster_Mahbub_Ul_Alam.pdf">📌 Conference poster (PDF)</a>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-<a href="https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_slides.pdf"><img src="assets/media/paper-v-media.svg" alt="Paper V slides and video" width="100%"></a><br>
-<a href="https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_video_extended.mp4">▶ Watch the extended presentation</a>
+<td width="50%" valign="top">
+<strong>🌡️ Paper II — Thermal + tabular COVID-19 detection</strong><br><br>
+<a href="https://github.com/anondo1969/thremaltimodal-covidetector/raw/main/slides_and_results/presentation_slides_v3.pdf">📑 Presentation slides (PDF)</a>
 </td>
-<td width="50%" align="center">
-<a href="#other-presentations-from-the-phd-years"><img src="assets/media/other-talks.svg" alt="Other presentations from the PhD years" width="100%"></a><br>
-<a href="#other-presentations-from-the-phd-years">See the other talks</a>
+<td width="50%" valign="top">
+<strong>🩺 Paper IV — FedSepsis</strong><br><br>
+<a href="https://mahbub.blogs.dsv.su.se/files/2023/01/FedSepsis_Mahbub_Ul_Alam.pdf">📑 Presentation slides (PDF)</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>🫁 Paper V — LRP &amp; Grad-CAM</strong><br><br>
+<a href="https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_slides.pdf">📑 Presentation slides (PDF)</a><br>
+<a href="https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_video_extended.mp4">▶️ Extended presentation (MP4)</a>
+</td>
+<td width="50%" valign="top">
+<strong>🩻 SHAMSUL — Explainable chest X-ray AI</strong><br><br>
+<a href="https://shamsul.serve.scilifelab.se/">🚀 Open the live SHAMSUL demo</a><br>
+<a href="https://github.com/anondo1969/SHAMSUL">💻 View code and results</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>🎤 More talks from the PhD years</strong><br><br>
+<a href="#other-presentations-from-the-phd-years">Browse conference slides and videos ↓</a>
+</td>
+<td width="50%" valign="top">
+<strong>📚 Full presentation archive</strong><br><br>
+<a href="https://mahbub.blogs.dsv.su.se/publication-presentation-slides/">Browse slides, posters and videos ↗</a>
 </td>
 </tr>
 </table>
+
 
 ## Thesis papers at a glance
 
 | Paper | Main topic | Code |
 |---|---|---|
-| I | Federated and semi-supervised learning for COVID-19 detection and lung segmentation | [`FedSemiCovidDetector`](https://github.com/anondo1969/FedSemiCovidDetector) |
-| II | Multimodal COVID-19 detection from thermal images and tabular data | [`thremaltimodal-covidetector`](https://github.com/anondo1969/thremaltimodal-covidetector) |
-| III | IoMT architecture and deep learning for early sepsis detection | [`FedSepsis/single_server_setting`](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting) |
-| IV | Federated multimodal early sepsis detection on edge devices | [`FedSepsis`](https://github.com/anondo1969/FedSepsis) |
-| V | LRP and Grad-CAM for interpreting chest X-ray models | [`lrp-grad_cam-chexpert`](https://github.com/anondo1969/lrp-grad_cam-chexpert) |
 | VI | SHAMSUL: comparing several local interpretability methods for chest radiography | [`SHAMSUL`](https://github.com/anondo1969/SHAMSUL) |
+| V | LRP and Grad-CAM for interpreting chest X-ray models | [`lrp-grad_cam-chexpert`](https://github.com/anondo1969/lrp-grad_cam-chexpert) |
+| IV | Federated multimodal early sepsis detection on edge devices | [`FedSepsis`](https://github.com/anondo1969/FedSepsis) |
+| III | IoMT architecture and deep learning for early sepsis detection | [`FedSepsis/single_server_setting`](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting) |
+| II | Multimodal COVID-19 detection from thermal images and tabular data | [`thremaltimodal-covidetector`](https://github.com/anondo1969/thremaltimodal-covidetector) |
+| I | Federated and semi-supervised learning for COVID-19 detection and lung segmentation | [`FedSemiCovidDetector`](https://github.com/anondo1969/FedSemiCovidDetector) |
 
----
-
-## Paper I — Federated semi-supervised COVID-19 detection and lung segmentation
-
-**Federated Semi-Supervised Multi-Task Learning to Detect COVID-19 and Lungs Segmentation Marking Using Chest Radiography Images and Raspberry Pi Devices: An Internet of Medical Things Application**
-
-This project studies COVID-19 detection and lung segmentation from chest X-rays when labelled data are limited and patient data cannot simply be collected in one place. It combines federated learning, semi-supervised learning, transfer learning, and multi-task learning, and tests the setup on Raspberry Pi devices.
-
-[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSemiCovidDetector)
-[![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.3390/s21155025)
-[![Poster](https://img.shields.io/badge/Poster-PDF-0078D4?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2022/05/poster_Mahbub_Ul_Alam.pdf)
-
-**Main themes:** federated learning · semi-supervised learning · multi-task learning · chest X-ray · Raspberry Pi · IoMT
-
----
-
-## Paper II — Multimodal COVID-19 detection with thermal and tabular data
-
-**COVID-19 detection from thermal image and tabular medical data utilizing multi-modal machine learning**
-
-This project asks whether thermal images add useful information when combined with tabular medical data. It compares single-modality and multimodal models and studies which combination gives the best COVID-19 detection performance.
-
-[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/thremaltimodal-covidetector)
-[![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.1109/CBMS58004.2023.00294)
-[![Slides](https://img.shields.io/badge/Slides-PDF-0078D4?style=flat-square)](https://github.com/anondo1969/thremaltimodal-covidetector/raw/main/slides_and_results/presentation_slides_v3.pdf)
-
-**Main themes:** multimodal learning · thermal imaging · tabular data · machine learning · COVID-19
-
----
-
-## Paper III — IoMT architecture for early sepsis detection
-
-**Cognitive Internet of Medical Things Architecture for Decision Support Tool to Detect Early Sepsis Using Deep Learning**
-
-This work describes an IoMT architecture for early sepsis detection from electronic health records. The main problem is practical: clinical data are sparse, heterogeneous, and spread across systems. The project connects data preparation, model inference, and decision-support components into one architecture.
-
-The implementation for this paper is kept inside the `FedSepsis` repository rather than in a separate repository.
-
-[![Code](https://img.shields.io/badge/GitHub-Single--server%20code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting)
-[![Numeric pipeline](https://img.shields.io/badge/GitHub-Numeric%20pipeline-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting/sepsis_prediction/1_numeric)
-[![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.1007/978-3-030-72379-8_18)
-
-**Main themes:** sepsis · electronic health records · data pipelines · deep learning · heterogeneous medical data · IoMT
-
----
-
-## Paper IV — FedSepsis
-
-**FedSepsis: A Federated Multi-Modal Deep Learning-Based Internet of Medical Things Application for Early Detection of Sepsis from Electronic Health Records Using Raspberry Pi and Jetson Nano Devices**
-
-FedSepsis combines structured EHR data and clinical text for early sepsis prediction. It uses federated learning for distributed training, ClinicalBERT for text features, missing-data handling, and experiments on Raspberry Pi and Jetson Nano devices. The project also records system behaviour such as CPU, memory, temperature, disk use, and network traffic.
-
-[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSepsis)
-[![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.3390/s23020970)
-[![Slides](https://img.shields.io/badge/Slides-PDF-0078D4?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2023/01/FedSepsis_Mahbub_Ul_Alam.pdf)
-
-**Main themes:** federated learning · multimodal EHR · ClinicalBERT · missing data · Raspberry Pi · Jetson Nano · edge computing · sepsis
-
----
-
-## Paper V — LRP and Grad-CAM for chest X-ray interpretation
-
-**Exploring LRP and Grad-CAM visualization to interpret multi-label-multi-class pathology prediction using chest radiography**
-
-This project compares Layer-wise Relevance Propagation (LRP) and Grad-CAM for explaining multi-label chest X-ray predictions. LRP gives detailed relevance maps, while Grad-CAM gives broader regions of attention. The paper received the Best Student Paper Award at IEEE CBMS 2022.
-
-[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/lrp-grad_cam-chexpert)
-[![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.1109/CBMS55023.2022.00052)
-[![Slides](https://img.shields.io/badge/Slides-PDF-0078D4?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_slides.pdf)
-[![Video](https://img.shields.io/badge/Presentation-Video-B42318?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_video_extended.mp4)
-
-**Main themes:** explainable AI · LRP · Grad-CAM · CheXpert · chest X-ray · multi-label classification
 
 ---
 
@@ -156,6 +98,79 @@ SHAMSUL compares Grad-CAM, LRP, LIME, and SHAP for explaining chest X-ray pathol
 </a>
 
 **Main themes:** explainable AI · Grad-CAM · LRP · LIME · SHAP · medical imaging · model interpretation · clinical decision support
+
+---
+
+## Paper V — LRP and Grad-CAM for chest X-ray interpretation
+
+**Exploring LRP and Grad-CAM visualization to interpret multi-label-multi-class pathology prediction using chest radiography**
+
+This project compares Layer-wise Relevance Propagation (LRP) and Grad-CAM for explaining multi-label chest X-ray predictions. LRP gives detailed relevance maps, while Grad-CAM gives broader regions of attention. The paper received the Best Student Paper Award at IEEE CBMS 2022.
+
+[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/lrp-grad_cam-chexpert)
+[![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.1109/CBMS55023.2022.00052)
+[![Slides](https://img.shields.io/badge/Slides-PDF-0078D4?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_slides.pdf)
+[![Video](https://img.shields.io/badge/Presentation-Video-B42318?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_video_extended.mp4)
+
+**Main themes:** explainable AI · LRP · Grad-CAM · CheXpert · chest X-ray · multi-label classification
+
+---
+
+## Paper IV — FedSepsis
+
+**FedSepsis: A Federated Multi-Modal Deep Learning-Based Internet of Medical Things Application for Early Detection of Sepsis from Electronic Health Records Using Raspberry Pi and Jetson Nano Devices**
+
+FedSepsis combines structured EHR data and clinical text for early sepsis prediction. It uses federated learning for distributed training, ClinicalBERT for text features, missing-data handling, and experiments on Raspberry Pi and Jetson Nano devices. The project also records system behaviour such as CPU, memory, temperature, disk use, and network traffic.
+
+[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSepsis)
+[![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.3390/s23020970)
+[![Slides](https://img.shields.io/badge/Slides-PDF-0078D4?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2023/01/FedSepsis_Mahbub_Ul_Alam.pdf)
+
+**Main themes:** federated learning · multimodal EHR · ClinicalBERT · missing data · Raspberry Pi · Jetson Nano · edge computing · sepsis
+
+---
+
+## Paper III — IoMT architecture for early sepsis detection
+
+**Cognitive Internet of Medical Things Architecture for Decision Support Tool to Detect Early Sepsis Using Deep Learning**
+
+This work describes an IoMT architecture for early sepsis detection from electronic health records. The main problem is practical: clinical data are sparse, heterogeneous, and spread across systems. The project connects data preparation, model inference, and decision-support components into one architecture.
+
+The implementation for this paper is kept inside the `FedSepsis` repository rather than in a separate repository.
+
+[![Code](https://img.shields.io/badge/GitHub-Single--server%20code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting)
+[![Numeric pipeline](https://img.shields.io/badge/GitHub-Numeric%20pipeline-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting/sepsis_prediction/1_numeric)
+[![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.1007/978-3-030-72379-8_18)
+
+**Main themes:** sepsis · electronic health records · data pipelines · deep learning · heterogeneous medical data · IoMT
+
+---
+
+## Paper II — Multimodal COVID-19 detection with thermal and tabular data
+
+**COVID-19 detection from thermal image and tabular medical data utilizing multi-modal machine learning**
+
+This project asks whether thermal images add useful information when combined with tabular medical data. It compares single-modality and multimodal models and studies which combination gives the best COVID-19 detection performance.
+
+[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/thremaltimodal-covidetector)
+[![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.1109/CBMS58004.2023.00294)
+[![Slides](https://img.shields.io/badge/Slides-PDF-0078D4?style=flat-square)](https://github.com/anondo1969/thremaltimodal-covidetector/raw/main/slides_and_results/presentation_slides_v3.pdf)
+
+**Main themes:** multimodal learning · thermal imaging · tabular data · machine learning · COVID-19
+
+---
+
+## Paper I — Federated semi-supervised COVID-19 detection and lung segmentation
+
+**Federated Semi-Supervised Multi-Task Learning to Detect COVID-19 and Lungs Segmentation Marking Using Chest Radiography Images and Raspberry Pi Devices: An Internet of Medical Things Application**
+
+This project studies COVID-19 detection and lung segmentation from chest X-rays when labelled data are limited and patient data cannot simply be collected in one place. It combines federated learning, semi-supervised learning, transfer learning, and multi-task learning, and tests the setup on Raspberry Pi devices.
+
+[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSemiCovidDetector)
+[![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.3390/s21155025)
+[![Poster](https://img.shields.io/badge/Poster-PDF-0078D4?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2022/05/poster_Mahbub_Ul_Alam.pdf)
+
+**Main themes:** federated learning · semi-supervised learning · multi-task learning · chest X-ray · Raspberry Pi · IoMT
 
 ---
 
