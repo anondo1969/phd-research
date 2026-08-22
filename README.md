@@ -146,8 +146,7 @@ This work describes an IoMT architecture for early sepsis detection from electro
 
 The implementation for this paper is kept inside the `FedSepsis` repository rather than in a separate repository.
 
-[![Code](https://img.shields.io/badge/GitHub-Single--server%20code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting)
-[![Numeric pipeline](https://img.shields.io/badge/GitHub-Numeric%20pipeline-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting/sepsis_prediction/1_numeric)
+[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting/sepsis_prediction/1_numeric)
 [![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.1007/978-3-030-72379-8_18)
 
 **Main themes:** sepsis · electronic health records · data pipelines · deep learning · heterogeneous medical data · IoMT
@@ -216,7 +215,7 @@ This project visualizes internal neural-network representations in automatic spe
 [![Slides](https://img.shields.io/badge/Slides-Google%20Drive-0078D4?style=flat-square)](https://drive.google.com/file/d/1vN8bIXMk_q4KN0DC6-5jkPPzjueLDuqu/view)
 
 <a href="https://github.com/anondo1969/deep-speech-vis">
-  <img src="https://www.researchgate.net/profile/Mahbub_Ul_Alam2/publication/363280942/figure/fig15/AS:11431281083068826@1662391054276/Experiment-1-Alphabeta-LRP-Left-After-Epoch-1-Right-After-Epoch-10_W640.jpg" alt="Visualization Heatmap" width="720">
+  <img src="https://raw.githubusercontent.com/anondo1969/phd-research/refs/heads/main/media/Experiment-1-Alphabeta-LRP-Left-After-Epoch-1-Right-After-Epoch-10_W640.jpg" alt="Visualization Heatmap" width="720">
 </a>
 
 **Main themes:** speech recognition · interpretability · LRP · TensorFlow · Kaldi · neural networks
