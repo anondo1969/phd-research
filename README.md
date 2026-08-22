@@ -165,7 +165,7 @@ Some related publications are not part of the six-paper thesis core, but their p
 
 - **Terminology Expansion with Prototype Embeddings: Extracting Symptoms ofUrinary Tract Infection from Clinical Text (2021):** [slides](https://mahbub.blogs.dsv.su.se/files/2021/02/HEALTHINF_2021_presentation_slides_Mahbub_Ul_Alam.pdf)
 - **Intelligent context-based healthcare metadata aggregator in internet of medical things platform (2020):** [presentation video](https://mahbub.blogs.dsv.su.se/files/2022/05/presentation.mp4)
-- **Deep Learning from Heterogeneous Sequences of Sparse Medical Data for Early Prediction of Sepsis (2020):** [slides](https://mahbub.blogs.dsv.su.se/files/2020/04/HEALTHINF_2020_presentation_slides_Mahbub_Ul_Alam.pdf) · [presentation video](https://mahbub.blogs.dsv.su.se/files/2022/05/early_detection_of_sepsis_Mahbub_Ul_Alam.mp4)
+- **Deep Learning from Heterogeneous Sequences of Sparse Medical Data for Early Prediction of Sepsis (2020):** [slides](https://mahbub.blogs.dsv.su.se/files/2020/04/HEALTHINF_2020_presentation_slides_Mahbub_Ul_Alam.pdf) · [presentation video](https://mahbub.blogs.dsv.su.se/files/2022/05/early_detection_of_sepsis_Mahbub_Ul_Alam.mp4) · [Best Paper Award](https://healthinf.scitevents.org/PreviousAwards.aspx#2020)
 
 The full set is also available on the [presentation resources page](https://mahbub.blogs.dsv.su.se/publication-presentation-slides/).
 
