@@ -149,6 +149,10 @@ The implementation for this paper is kept inside the `FedSepsis` repository rath
 [![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting/sepsis_prediction/1_numeric)
 [![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.1007/978-3-030-72379-8_18)
 
+<a href="https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting/sepsis_prediction/1_numeric">
+  <img src="https://raw.githubusercontent.com/anondo1969/phd-research/refs/heads/main/media/care_episode_representation.jpg" alt="early sepsis detection" width="720">
+</a>
+
 **Main themes:** sepsis · electronic health records · data pipelines · deep learning · heterogeneous medical data · IoMT
 
 ---
@@ -221,7 +225,3 @@ This project visualizes internal neural-network representations in automatic spe
 **Main themes:** speech recognition · interpretability · LRP · TensorFlow · Kaldi · neural networks
 
 ---
-
-## About this archive
-
-This repository is an index, not a replacement for the original research repositories. Keeping the original repositories public means code links used in the thesis and publications can continue to work. The archive simply gives the research record one place on GitHub, leaving the main profile free to highlight current engineering work.
