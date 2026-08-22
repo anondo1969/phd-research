@@ -29,6 +29,10 @@ Department of Computer and Systems Sciences, Stockholm University, 2024.
 [![Publications](https://img.shields.io/badge/All-Publications-2E7D32?style=flat-square)](https://mahbub.blogs.dsv.su.se/publications/)
 [![Presentation Resources](https://img.shields.io/badge/Slides%20%7C%20Posters%20%7C%20Videos-Resources-A142F4?style=flat-square)](https://mahbub.blogs.dsv.su.se/publication-presentation-slides/)
 
+[![Video Title](https://img.youtube.com/vi/18Fh7ViOUis/0.jpg)](https://www.youtube.com/watch?v=18Fh7ViOUis)
+
+[Doctoral Degree Conferment Ceremony – Stockholm University, September 27, 2024, at Stockholm City Hall](https://www.su.se/english/news/festive-celebrations-in-the-city-hall-1.768138)
+
 ---
 
 ## Thesis papers at a glance
