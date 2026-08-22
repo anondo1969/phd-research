@@ -6,6 +6,18 @@ My thesis points readers to my GitHub profile for research code. I now use that 
 
 The original code repositories stay where they are. This repository only gives them one stable starting point.
 
+---
+
+## About me
+
+### Mahbub Ul Alam
+
+mahbub.ul.alam.anondo@gmail.com
+
+[**SciLifeLab**](https://www.scilifelab.se/data-centre/mahbub-ul-alam/) · [**LinkedIn**](https://www.linkedin.com/in/anondo) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=lIfPGYcAAAAJ&view_op=list_works&sortby=pubdate)
+
+---
+
 ## PhD thesis
 
 **Advancing Clinical Decision Support Using Machine Learning & the Internet of Medical Things: Enhancing COVID-19 & Early Sepsis Detection**  
@@ -17,67 +29,18 @@ Department of Computer and Systems Sciences, Stockholm University, 2024.
 [![Publications](https://img.shields.io/badge/All-Publications-2E7D32?style=flat-square)](https://mahbub.blogs.dsv.su.se/publications/)
 [![Presentation Resources](https://img.shields.io/badge/Slides%20%7C%20Posters%20%7C%20Videos-Resources-A142F4?style=flat-square)](https://mahbub.blogs.dsv.su.se/publication-presentation-slides/)
 
-## Media gallery
-
-Quick links to the slides, posters, videos, and demos that go with the research.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<strong>🎓 PhD public defence</strong><br><br>
-<a href="https://mahbub.blogs.dsv.su.se/files/2025/02/defence_presentation_slides.pdf">📑 Defence slides (PDF)</a><br>
-<a href="https://mahbub.blogs.dsv.su.se/files/2025/09/PhD_defence_28-03-2024_Mahbub_Ul_Alam.mp4">▶️ Watch the defence (MP4)</a>
-</td>
-<td width="50%" valign="top">
-<strong>🖼️ Paper I — Federated semi-supervised COVID-19 detection</strong><br><br>
-<a href="https://mahbub.blogs.dsv.su.se/files/2022/05/poster_Mahbub_Ul_Alam.pdf">📌 Conference poster (PDF)</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>🌡️ Paper II — Thermal + tabular COVID-19 detection</strong><br><br>
-<a href="https://github.com/anondo1969/thremaltimodal-covidetector/raw/main/slides_and_results/presentation_slides_v3.pdf">📑 Presentation slides (PDF)</a>
-</td>
-<td width="50%" valign="top">
-<strong>🩺 Paper IV — FedSepsis</strong><br><br>
-<a href="https://mahbub.blogs.dsv.su.se/files/2023/01/FedSepsis_Mahbub_Ul_Alam.pdf">📑 Presentation slides (PDF)</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>🫁 Paper V — LRP &amp; Grad-CAM</strong><br><br>
-<a href="https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_slides.pdf">📑 Presentation slides (PDF)</a><br>
-<a href="https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_video_extended.mp4">▶️ Extended presentation (MP4)</a>
-</td>
-<td width="50%" valign="top">
-<strong>🩻 SHAMSUL — Explainable chest X-ray AI</strong><br><br>
-<a href="https://shamsul.serve.scilifelab.se/">🚀 Open the live SHAMSUL demo</a><br>
-<a href="https://github.com/anondo1969/SHAMSUL">💻 View code and results</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>🎤 More talks from the PhD years</strong><br><br>
-<a href="#other-presentations-from-the-phd-years">Browse conference slides and videos ↓</a>
-</td>
-<td width="50%" valign="top">
-<strong>📚 Full presentation archive</strong><br><br>
-<a href="https://mahbub.blogs.dsv.su.se/publication-presentation-slides/">Browse slides, posters and videos ↗</a>
-</td>
-</tr>
-</table>
-
+---
 
 ## Thesis papers at a glance
 
-| Paper | Main topic | Code |
+| Paper | Title | Code |
 |---|---|---|
-| VI | SHAMSUL: comparing several local interpretability methods for chest radiography | [`SHAMSUL`](https://github.com/anondo1969/SHAMSUL) |
-| V | LRP and Grad-CAM for interpreting chest X-ray models | [`lrp-grad_cam-chexpert`](https://github.com/anondo1969/lrp-grad_cam-chexpert) |
-| IV | Federated multimodal early sepsis detection on edge devices | [`FedSepsis`](https://github.com/anondo1969/FedSepsis) |
-| III | IoMT architecture and deep learning for early sepsis detection | [`FedSepsis/single_server_setting`](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting) |
-| II | Multimodal COVID-19 detection from thermal images and tabular data | [`thremaltimodal-covidetector`](https://github.com/anondo1969/thremaltimodal-covidetector) |
-| I | Federated and semi-supervised learning for COVID-19 detection and lung segmentation | [`FedSemiCovidDetector`](https://github.com/anondo1969/FedSemiCovidDetector) |
+| VI | SHAMSUL: Systematic Holistic Analysis to investigate Medical Significance Utilizing Local interpretability methods in deep learning for chest radiography pathology prediction | [`SHAMSUL`](https://github.com/anondo1969/SHAMSUL) |
+| V | Exploring LRP and Grad-CAM visualization to interpret multi-label-multi-class pathology prediction using chest radiography | [`lrp-grad_cam-chexpert`](https://github.com/anondo1969/lrp-grad_cam-chexpert) |
+| IV | FedSepsis: A Federated Multi-Modal Deep Learning-Based Internet of Medical Things Application for Early Detection of Sepsis from Electronic Health Records Using Raspberry Pi and Jetson Nano Devices | [`FedSepsis`](https://github.com/anondo1969/FedSepsis) |
+| III | Cognitive Internet of Medical Things Architecture for Decision Support Tool to Detect Early Sepsis Using Deep Learning | [`Code`](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting/sepsis_prediction/1_numeric) |
+| II | COVID-19 detection from thermal image and tabular medical data utilizing multi-modal machine learning | [`thremaltimodal-covidetector`](https://github.com/anondo1969/thremaltimodal-covidetector) |
+| I | Federated Semi-Supervised Multi-Task Learning to Detect COVID-19 and Lungs Segmentation Marking Using Chest Radiography Images and Raspberry Pi Devices: An Internet of Medical Things Application | [`FedSemiCovidDetector`](https://github.com/anondo1969/FedSemiCovidDetector) |
 
 
 ---
@@ -90,7 +53,6 @@ SHAMSUL compares Grad-CAM, LRP, LIME, and SHAP for explaining chest X-ray pathol
 
 [![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/SHAMSUL)
 [![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.5617/nmi.10471)
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-0078D4?style=flat-square)](https://github.com/anondo1969/SHAMSUL/blob/main/SHAMSUL.pdf)
 [![Demo](https://img.shields.io/badge/Live-Demo-2E7D32?style=flat-square)](https://shamsul.serve.scilifelab.se/)
 
 <a href="https://shamsul.serve.scilifelab.se/">
@@ -101,7 +63,7 @@ SHAMSUL compares Grad-CAM, LRP, LIME, and SHAP for explaining chest X-ray pathol
 
 ---
 
-## Paper V — LRP and Grad-CAM for chest X-ray interpretation
+## Paper V
 
 **Exploring LRP and Grad-CAM visualization to interpret multi-label-multi-class pathology prediction using chest radiography**
 
@@ -120,7 +82,7 @@ This project compares Layer-wise Relevance Propagation (LRP) and Grad-CAM for ex
 
 ---
 
-## Paper IV — FedSepsis
+## Paper IV
 
 **FedSepsis: A Federated Multi-Modal Deep Learning-Based Internet of Medical Things Application for Early Detection of Sepsis from Electronic Health Records Using Raspberry Pi and Jetson Nano Devices**
 
@@ -138,7 +100,7 @@ FedSepsis combines structured EHR data and clinical text for early sepsis predic
 
 ---
 
-## Paper III — IoMT architecture for early sepsis detection
+## Paper III
 
 **Cognitive Internet of Medical Things Architecture for Decision Support Tool to Detect Early Sepsis Using Deep Learning**
 
@@ -157,7 +119,7 @@ The implementation for this paper is kept inside the `FedSepsis` repository rath
 
 ---
 
-## Paper II — Multimodal COVID-19 detection with thermal and tabular data
+## Paper II
 
 **COVID-19 detection from thermal image and tabular medical data utilizing multi-modal machine learning**
 
@@ -175,7 +137,7 @@ This project asks whether thermal images add useful information when combined wi
 
 ---
 
-## Paper I — Federated semi-supervised COVID-19 detection and lung segmentation
+## Paper I
 
 **Federated Semi-Supervised Multi-Task Learning to Detect COVID-19 and Lungs Segmentation Marking Using Chest Radiography Images and Raspberry Pi Devices: An Internet of Medical Things Application**
 
@@ -197,9 +159,9 @@ This project studies COVID-19 detection and lung segmentation from chest X-rays 
 
 Some related publications are not part of the six-paper thesis core, but their presentation material is still useful:
 
-- **Terminology expansion with prototype embeddings (2021):** [slides](https://mahbub.blogs.dsv.su.se/files/2021/02/HEALTHINF_2021_presentation_slides_Mahbub_Ul_Alam.pdf)
-- **Intelligent context-based healthcare metadata aggregator (2020):** [presentation video](https://mahbub.blogs.dsv.su.se/files/2022/05/presentation.mp4)
-- **Deep learning from sparse medical data for early sepsis prediction (2020):** [slides](https://mahbub.blogs.dsv.su.se/files/2020/04/HEALTHINF_2020_presentation_slides_Mahbub_Ul_Alam.pdf) · [presentation video](https://mahbub.blogs.dsv.su.se/files/2022/05/early_detection_of_sepsis_Mahbub_Ul_Alam.mp4)
+- **Terminology Expansion with Prototype Embeddings: Extracting Symptoms ofUrinary Tract Infection from Clinical Text (2021):** [slides](https://mahbub.blogs.dsv.su.se/files/2021/02/HEALTHINF_2021_presentation_slides_Mahbub_Ul_Alam.pdf)
+- **Intelligent context-based healthcare metadata aggregator in internet of medical things platform (2020):** [presentation video](https://mahbub.blogs.dsv.su.se/files/2022/05/presentation.mp4)
+- **Deep Learning from Heterogeneous Sequences of Sparse Medical Data for Early Prediction of Sepsis (2020):** [slides](https://mahbub.blogs.dsv.su.se/files/2020/04/HEALTHINF_2020_presentation_slides_Mahbub_Ul_Alam.pdf) · [presentation video](https://mahbub.blogs.dsv.su.se/files/2022/05/early_detection_of_sepsis_Mahbub_Ul_Alam.mp4)
 
 The full set is also available on the [presentation resources page](https://mahbub.blogs.dsv.su.se/publication-presentation-slides/).
 
@@ -223,5 +185,15 @@ This project visualizes internal neural-network representations in automatic spe
 </a>
 
 **Main themes:** speech recognition · interpretability · LRP · TensorFlow · Kaldi · neural networks
+
+---
+
+## About me
+
+### Mahbub Ul Alam
+
+mahbub.ul.alam.anondo@gmail.com
+
+[**SciLifeLab**](https://www.scilifelab.se/data-centre/mahbub-ul-alam/) · [**LinkedIn**](https://www.linkedin.com/in/anondo) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=lIfPGYcAAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
