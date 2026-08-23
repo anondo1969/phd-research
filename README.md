@@ -194,7 +194,7 @@ This project visualizes internal neural-network representations in automatic spe
 
 ## About me
 
-### Mahbub Ul Alam
+Mahbub Ul Alam
 
 mahbub.ul.alam.anondo@gmail.com
 
