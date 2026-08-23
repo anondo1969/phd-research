@@ -10,7 +10,7 @@ This repository is an index of the code, papers, slides, posters, videos, and de
 
 ## About me
 
-### Mahbub Ul Alam
+Mahbub Ul Alam
 
 mahbub.ul.alam.anondo@gmail.com
 
