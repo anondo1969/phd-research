@@ -1,6 +1,6 @@
 # PhD Research Archive
 
-You can find the original code repositories from the table linked below.
+You can find the original code repositories from the table [Thesis papers at a glance](#thesis-papers-at-a-glance) below.
 
 My PhD thesis points readers to my GitHub profile for research code. This archive is here to help them find it easily.
 
