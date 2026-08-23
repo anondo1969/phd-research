@@ -1,11 +1,11 @@
 # PhD Research Archive
 
+You can find the original code repositories from the table linked below.
+
+My PhD thesis points readers to my GitHub profile for research code. This archive is here to help them find it easily.
+
 This repository is an index of the code, papers, slides, posters, videos, and demos from my PhD research at Stockholm University (2018–2024), with my earlier Master's thesis included at the end.
-
-My thesis points readers to my GitHub profile for research code. I now use that profile mainly for current engineering work, so this archive keeps the research easy to find.
-
-The original code repositories stay where they are. This repository only gives them one stable starting point.
-
+  
 ---
 
 ## About me
