@@ -14,7 +14,7 @@ Mahbub Ul Alam
 
 mahbub.ul.alam.anondo@gmail.com
 
-[**SciLifeLab**](https://www.scilifelab.se/data-centre/mahbub-ul-alam/) · [**LinkedIn**](https://www.linkedin.com/in/anondo) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=lIfPGYcAAAAJ&view_op=list_works&sortby=pubdate)
+[SciLifeLab Profile](https://www.scilifelab.se/data-centre/mahbub-ul-alam/) · [LinkedIn](https://www.linkedin.com/in/anondo) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=lIfPGYcAAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
 
@@ -198,6 +198,6 @@ Mahbub Ul Alam
 
 mahbub.ul.alam.anondo@gmail.com
 
-[**SciLifeLab**](https://www.scilifelab.se/data-centre/mahbub-ul-alam/) · [**LinkedIn**](https://www.linkedin.com/in/anondo) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=lIfPGYcAAAAJ&view_op=list_works&sortby=pubdate)
+[SciLifeLab Profile](https://www.scilifelab.se/data-centre/mahbub-ul-alam/) · [LinkedIn](https://www.linkedin.com/in/anondo) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=lIfPGYcAAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
