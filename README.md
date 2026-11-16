@@ -8,7 +8,7 @@ This repository is an index of the code, papers, slides, posters, videos, and de
 
 
 
-![Figure 1](media/A PhD Journey Beyond the Night.png)
+![Figure 1](media/phd-poster.png)
 
 ---
 
