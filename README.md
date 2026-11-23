@@ -8,7 +8,7 @@ This repository is an index of the code, papers, slides, posters, videos, and de
 
 
 <a href="https://su.diva-portal.org/smash/record.jsf?pid=diva2%3A1833062">
-  <img src="media/phd-poster.png" alt="PhD Poster" width="720">
+  <img src="media/phd-poster.png" alt="PhD Poster">
 </a>
 
 ---
