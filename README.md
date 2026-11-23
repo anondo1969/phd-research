@@ -7,8 +7,9 @@ My PhD thesis points readers to my GitHub profile for research code. This archiv
 This repository is an index of the code, papers, slides, posters, videos, and demos from my PhD research at Stockholm University (2018–2024), with my earlier Master's thesis included at the end.
 
 
-
-![Figure 1](media/phd-poster.png)
+<a href="https://su.diva-portal.org/smash/record.jsf?pid=diva2%3A1833062">
+  <img src="media/phd-poster.png" alt="PhD Poster" width="720">
+</a>
 
 ---
 
