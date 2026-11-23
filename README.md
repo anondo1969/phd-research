@@ -83,7 +83,7 @@ This project compares Layer-wise Relevance Propagation (LRP) and Grad-CAM for ex
 [![Video](https://img.shields.io/badge/Presentation-Video-B42318?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_video_extended.mp4)
 
 <a href="https://github.com/anondo1969/lrp-grad_cam-chexpert">
-  <img src="https://camo.githubusercontent.com/d6fadd4e59bb41508a180d61d30f226b3baf5638df7d63e2c5ca4ac5e969999d/687474703a2f2f646173682e626c6f67732e6473762e73752e73652f66696c65732f323032322f30372f53637265656e73686f742d323032322d30372d32372d61742d31312e33302e31322d414d2e706e67" alt="lrp-grad_cam-chexpert example" width="720">
+  <img src="http://dash.blogs.dsv.su.se/files/2022/07/Screenshot-2022-07-27-at-11.30.12-AM.png" alt="lrp-grad_cam-chexpert example" width="720">
 </a>
 
 **Main themes:** explainable AI · LRP · Grad-CAM · CheXpert · chest X-ray · multi-label classification
@@ -101,7 +101,7 @@ FedSepsis combines structured EHR data and clinical text for early sepsis predic
 [![Slides](https://img.shields.io/badge/Slides-PDF-0078D4?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2023/01/FedSepsis_Mahbub_Ul_Alam.pdf)
 
 <a href="https://github.com/anondo1969/FedSepsis">
-  <img src="https://camo.githubusercontent.com/e9dd3328fe675c77d732e392fd512f602346b0bb6e23f8123d7232a0a2e97f91/687474703a2f2f6d61686275622e626c6f67732e6473762e73752e73652f66696c65732f323032332f30312f6e657572616c5f6e6574776f726b5f6469616772616d2e706e67" alt="Schematic diagram of FedSepsis" width="720">
+  <img src="http://mahbub.blogs.dsv.su.se/files/2023/01/neural_network_diagram.png" alt="Schematic diagram of FedSepsis" width="720">
 </a>
 
 **Main themes:** federated learning · multimodal EHR · ClinicalBERT · missing data · Raspberry Pi · Jetson Nano · edge computing · sepsis
@@ -156,7 +156,7 @@ This project studies COVID-19 detection and lung segmentation from chest X-rays 
 [![Poster](https://img.shields.io/badge/Poster-PDF-0078D4?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2022/05/poster_Mahbub_Ul_Alam.pdf)
 
 <a href="https://github.com/anondo1969/FedSemiCovidDetector">
-  <img src="https://camo.githubusercontent.com/5bdbffdb2c93d997daf65283bb84cc72877c808edad57d1050d58825c519adae/68747470733a2f2f6d61686275622e626c6f67732e6473762e73752e73652f66696c65732f323032312f30372f53637265656e73686f742d323032312d30372d32372d61742d312e33372e33382d504d2e706e67" alt="Poster" width="720">
+  <img src="https://mahbub.blogs.dsv.su.se/files/2021/07/Screenshot-2021-07-27-at-1.37.38-PM.png" alt="Poster" width="720">
 </a>
 
 **Main themes:** federated learning · semi-supervised learning · multi-task learning · chest X-ray · Raspberry Pi · IoMT
