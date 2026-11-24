@@ -34,7 +34,9 @@ Department of Computer and Systems Sciences, Stockholm University, 2024.
 [![Publications](https://img.shields.io/badge/All-Publications-2E7D32?style=flat-square)](https://mahbub.blogs.dsv.su.se/publications/)
 [![Presentation Resources](https://img.shields.io/badge/Slides%20%7C%20Posters%20%7C%20Videos-Resources-A142F4?style=flat-square)](https://mahbub.blogs.dsv.su.se/publication-presentation-slides/)
 
+### Click the image to see the ceremony video.
 [![Video Title](https://img.youtube.com/vi/18Fh7ViOUis/0.jpg)](https://www.youtube.com/watch?v=18Fh7ViOUis)
+
 
 [Doctoral Degree Conferment Ceremony – Stockholm University, September 27, 2024, at Stockholm City Hall](https://www.su.se/english/news/festive-celebrations-in-the-city-hall-1.768138)
 
@@ -64,6 +66,7 @@ SHAMSUL compares Grad-CAM, LRP, LIME, and SHAP for explaining chest X-ray pathol
 [![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.5617/nmi.10471)
 [![Demo](https://img.shields.io/badge/Live-Demo-2E7D32?style=flat-square)](https://shamsul.serve.scilifelab.se/)
 
+### Click the image to try the SHAMSUL app.
 <a href="https://shamsul.serve.scilifelab.se/">
   <img src="https://raw.githubusercontent.com/anondo1969/SHAMSUL/main/SHAMSUL_demo_app_screengrab.png" alt="SHAMSUL demo app" width="720">
 </a>
@@ -83,7 +86,8 @@ This project compares Layer-wise Relevance Propagation (LRP) and Grad-CAM for ex
 [![Slides](https://img.shields.io/badge/Slides-PDF-0078D4?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_slides.pdf)
 [![Video](https://img.shields.io/badge/Presentation-Video-B42318?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2022/07/presentation_video_extended.mp4)
 
-<a href="https://github.com/anondo1969/lrp-grad_cam-chexpert">
+### Click the image to read the paper.
+<a href="https://doi.org/10.1109/CBMS55023.2022.00052">
   <img src="http://dash.blogs.dsv.su.se/files/2022/07/Screenshot-2022-07-27-at-11.30.12-AM.png" alt="lrp-grad_cam-chexpert example" width="720">
 </a>
 
@@ -101,7 +105,8 @@ FedSepsis combines structured EHR data and clinical text for early sepsis predic
 [![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.3390/s23020970)
 [![Slides](https://img.shields.io/badge/Slides-PDF-0078D4?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2023/01/FedSepsis_Mahbub_Ul_Alam.pdf)
 
-<a href="https://github.com/anondo1969/FedSepsis">
+### Click the image to read the paper.
+<a href="https://doi.org/10.3390/s23020970">
   <img src="http://mahbub.blogs.dsv.su.se/files/2023/01/neural_network_diagram.png" alt="Schematic diagram of FedSepsis" width="720">
 </a>
 
@@ -120,7 +125,8 @@ The implementation for this paper is kept inside the `FedSepsis` repository rath
 [![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting/sepsis_prediction/1_numeric)
 [![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.1007/978-3-030-72379-8_18)
 
-<a href="https://github.com/anondo1969/FedSepsis/tree/main/FedSepsis_codes/single_server_setting/sepsis_prediction/1_numeric">
+### Click the image to read the paper (or contact me).
+<a href="https://doi.org/10.1007/978-3-030-72379-8_18">
   <img src="https://raw.githubusercontent.com/anondo1969/phd-research/refs/heads/main/media/care_episode_representation.jpg" alt="early sepsis detection" width="720">
 </a>
 
@@ -138,7 +144,8 @@ This project asks whether thermal images add useful information when combined wi
 [![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.1109/CBMS58004.2023.00294)
 [![Slides](https://img.shields.io/badge/Slides-PDF-0078D4?style=flat-square)](https://github.com/anondo1969/thremaltimodal-covidetector/raw/main/slides_and_results/presentation_slides_v3.pdf)
 
-<a href="https://github.com/anondo1969/thremaltimodal-covidetector">
+### Click the image to read the paper (or contact me).
+<a href="https://doi.org/10.1109/CBMS58004.2023.00294">
   <img src="https://raw.githubusercontent.com/anondo1969/thremaltimodal-covidetector/main/slides_and_results/schematic_diagram.jpeg" alt="Schematic diagram of COVID-19 detection from thermal image and tabular medical data utilizing multi-modal machine learning" width="720">
 </a>
 
@@ -156,7 +163,8 @@ This project studies COVID-19 detection and lung segmentation from chest X-rays 
 [![Paper](https://img.shields.io/badge/DOI-Paper-B31B1B?style=flat-square)](https://doi.org/10.3390/s21155025)
 [![Poster](https://img.shields.io/badge/Poster-PDF-0078D4?style=flat-square)](https://mahbub.blogs.dsv.su.se/files/2022/05/poster_Mahbub_Ul_Alam.pdf)
 
-<a href="https://github.com/anondo1969/FedSemiCovidDetector">
+### Click the image to read the paper.
+<a href="https://doi.org/10.3390/s21155025">
   <img src="https://mahbub.blogs.dsv.su.se/files/2021/07/Screenshot-2021-07-27-at-1.37.38-PM.png" alt="Poster" width="720">
 </a>
 
@@ -189,7 +197,8 @@ This project visualizes internal neural-network representations in automatic spe
 [![Thesis](https://img.shields.io/badge/DOI-Thesis-B31B1B?style=flat-square)](http://dx.doi.org/10.13140/RG.2.2.18693.01765)
 [![Slides](https://img.shields.io/badge/Slides-Google%20Drive-0078D4?style=flat-square)](https://drive.google.com/file/d/1vN8bIXMk_q4KN0DC6-5jkPPzjueLDuqu/view)
 
-<a href="https://github.com/anondo1969/deep-speech-vis">
+### Click the image to read the master’s thesis.
+<a href="https://mahbub.se/media/Masters_Thesis_Mahbub_Ul_Alam.pdf">
   <img src="https://raw.githubusercontent.com/anondo1969/phd-research/refs/heads/main/media/Experiment-1-Alphabeta-LRP-Left-After-Epoch-1-Right-After-Epoch-10_W640.jpg" alt="Visualization Heatmap" width="720">
 </a>
 
